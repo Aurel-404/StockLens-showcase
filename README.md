@@ -16,19 +16,19 @@ StockLens is a deployed, production SaaS with real users, Google OAuth login, an
 ## Screenshots
 
 **Dashboard** — watchlist with live prices, buy signals, and recently analyzed tickers
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard)
 
 **Stock Analysis** — Investment Scorecard (deterministic, from Yahoo Finance) + Price & Fundamentals chart
-![Analysis](screenshots/analysis.png)
+![Analysis](screenshots/analysis)
 
 **Sector Comparison** — full peer table with revenue growth, margins, valuation multiples, moat scores, and analyst consensus
-![Sector](screenshots/sector.png)
+![Sector](screenshots/sector)
 
 **Analysis Database** — shared cache browser; all fresh analyses are available to every user
-![Analysis Database](screenshots/database.png)
+![Analysis Database](screenshots/database)
 
 **Fair Value** — DCF model + relative sector valuation with current price position indicator
-![Fair Value](screenshots/fairvalue.png)
+![Fair Value](screenshots/fairvalue)
 
 ---
 
